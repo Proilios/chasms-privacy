@@ -1,2 +1,2 @@
 # chasms-privacy
-Privacy policy for a closed game playtest.
+Privacy policy for The Chasms of Chaos closed playtest (Android).
